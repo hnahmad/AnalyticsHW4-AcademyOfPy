@@ -1,1 +1,3 @@
 # AnalyticsHW4-AcademyOfPy
+
+THE FULL WORK IS IN STARTER2
